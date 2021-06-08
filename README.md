@@ -1,2 +1,2 @@
-# IAAC_05_LEANDRO_GUARNIER
-2020 - MBA CLC &amp; DevOps_05
+# iaac_0506
+Arquivos referentes a Aula de IaaC das turmas 05 e 06
